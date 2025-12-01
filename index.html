@@ -1,35 +1,42 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>nekrofrukt</title>
-
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: #111111;
-      color: #f0f0f0;
-      font-family: monospace, "Courier New";
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      text-align: center;
-    }
-
-    .container {
-      max-width: 600px;
-      padding: 20px;
-    }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>index — terminal lo-res</title>
+<style>
+  /* Minimal CSS — mostly HTML structure and <pre> for lo‑res terminal look */
+  html,body{height:100%;margin:0;background:#000;color:#8fa38f;font-family:monospace!important;}
+  /* center using a table-like layout with pure HTML feel */
+  .stage{display:flex;align-items:center;justify-content:center;height:100%;padding:2rem;}
+  .term{
+    background:#0a0a0a;border:3px solid #8fa38f;padding:1.25rem;max-width:90vw;min-width:260px;box-sizing:border-box;
+    /* make text chunky and low-res feeling */
+    font-size:14px;letter-spacing:0.08em;line-height:1.05;
+  }
+  h1,h2{margin:0;padding:0;font-weight:700}
+  h1{font-size:clamp(20px,6vw,48px);color:#a8b5a8;}
+  h2{font-size:clamp(12px,2.8vw,18px);color:#b0b8b0;margin-top:8px;font-weight:400}
+  /* Add an ASCII bezel using pre so page is mostly HTML content */
+  pre.bezel{margin:0 0 0 0;color:#8fa38f;background:transparent;border:none;padding:0}
+  /* tiny 'pixel' border using characters */
+  .mono{font-family:monospace, monospace}
+  @media (max-width:420px){.term{font-size:12px;padding:0.9rem}}
+</style>
 </head>
-
 <body>
-  <div class="container">
-    <h1>50.harplinge</h1>
-    <p>powered by root@teknodromen</p>
+  <div class="stage">
+    <div class="term mono" role="main" aria-label="Terminal style homepage">
+      <pre class="bezel">+------------------------------------------------------+</pre>
+      <div style="text-align:center;padding:0.6rem 0">
+        <h1>5-0.harplinge</h1>
+        <h2>powered by teknodromen.</h2>
+      </div>
+      <pre class="bezel">|  user  : root@teknodromen                           |</pre>
+      <pre class="bezel">|  sstm  : ubuntu server                              |</pre>
+      <pre class="bezel">|  hrdwr : macbook pro 13                             |</pre>
+      <pre class="bezel">+------------------------------------------------------+</pre>
+    </div>
   </div>
 </body>
 </html>

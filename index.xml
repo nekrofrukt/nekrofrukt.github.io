@@ -13,14 +13,14 @@
       <link>https://nekrofrukt.github.io/about/</link>
       <pubDate>Fri, 19 Dec 2025 16:43:31 +0100</pubDate>
       <guid>https://nekrofrukt.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;machines:&lt;/strong&gt;&#xA;ubuntu@dell-xps9370&#xA;ubuntu-server@raspberry-pi5&#xA;mint@macbook-pro2012&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;machines:&lt;/strong&gt;&lt;br&gt;&#xA;ubuntu@dell-xps9370&lt;br&gt;&#xA;ubuntu-server@raspberry-pi5&lt;br&gt;&#xA;mint@macbook-pro2012&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello_world</title>
       <link>https://nekrofrukt.github.io/posts/hello_world/</link>
       <pubDate>Thu, 18 Dec 2025 23:58:46 +0100</pubDate>
       <guid>https://nekrofrukt.github.io/posts/hello_world/</guid>
-      <description>&lt;p&gt;i min bastion av mossa och kretsar, är jag &lt;em&gt;fri&lt;/em&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;just a guy with a newly found interest in tinkering and #learningtocode.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

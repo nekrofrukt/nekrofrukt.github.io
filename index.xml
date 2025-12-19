@@ -13,7 +13,7 @@
       <link>https://nekrofrukt.github.io/about/</link>
       <pubDate>Fri, 19 Dec 2025 16:43:31 +0100</pubDate>
       <guid>https://nekrofrukt.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;machines:&lt;/strong&gt;&lt;br&gt;&#xA;ubuntu@dell-xps9370&#xA;ubuntu-server@raspberry-pi5&lt;br&gt;&#xA;mint@macbook-pro2012&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;machines:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ubuntu@dell-xps9370&lt;/li&gt;&#xA;&lt;li&gt;ubuntu-server@raspberry-pi5&lt;/li&gt;&#xA;&lt;li&gt;mint@macbook-pro2012&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Hello_world</title>

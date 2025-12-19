@@ -6,14 +6,21 @@
     <description>Recent content on rural nekrotech</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Dec 2025 16:43:31 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 21:56:04 +0100</lastBuildDate>
     <atom:link href="https://nekrofrukt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thisisatest</title>
+      <link>https://nekrofrukt.github.io/posts/thisisatest/</link>
+      <pubDate>Fri, 19 Dec 2025 21:56:04 +0100</pubDate>
+      <guid>https://nekrofrukt.github.io/posts/thisisatest/</guid>
+      <description>&lt;h1 id=&#34;thisisatest&#34;&gt;Thisisatest&lt;/h1&gt;&#xA;&lt;p&gt;So this is a test. will this line break?&lt;br&gt;&#xA;is this the new line?&lt;/p&gt;&#xA;&lt;p&gt;is this a new paragraph? Time will tell.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>about</title>
       <link>https://nekrofrukt.github.io/about/</link>
       <pubDate>Fri, 19 Dec 2025 16:43:31 +0100</pubDate>
       <guid>https://nekrofrukt.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;machines:&lt;/strong&gt;&lt;br&gt;&#xA;ubuntu@dell-xps9370&lt;br&gt;&#xA;ubuntu-server@raspberry-pi5&lt;br&gt;&#xA;mint@macbook-pro2012&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;machines:&lt;/strong&gt;&lt;br&gt;&#xA;ubuntu@dell-xps9370&#xA;ubuntu-server@raspberry-pi5&lt;br&gt;&#xA;mint@macbook-pro2012&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello_world</title>

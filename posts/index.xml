@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on rural nekrotech</title>
+    <link>https://nekrofrukt.github.io/posts/</link>
+    <description>Recent content in Posts on rural nekrotech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Dec 2025 23:58:46 +0100</lastBuildDate>
+    <atom:link href="https://nekrofrukt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_world</title>
+      <link>https://nekrofrukt.github.io/posts/hello_world/</link>
+      <pubDate>Thu, 18 Dec 2025 23:58:46 +0100</pubDate>
+      <guid>https://nekrofrukt.github.io/posts/hello_world/</guid>
+      <description>&lt;p&gt;i min bastion av mossa och kretsar, är jag &lt;em&gt;fri&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
